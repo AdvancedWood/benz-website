@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: BIM Tertiary Education in NZ
-        content: 'Just opened last month!'
+        content: 'Ensuring the architects, engineers, and construction professionals of tomorrow are BIM capable is an important enabler of BIM adoption. Developing the teaching resource and assessments is a key step in delivering this. Sometimes this requires upskilling of academic staff too.'
         align: right
         background:
           image:

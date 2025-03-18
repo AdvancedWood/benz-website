@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        BIM Education New Zealand
       image:
         filename: welcome.jpg
       text: |
