@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Yang Zou (University of Auckland)
+title: Dr Yang Zou
 
 # Full Name (for SEO)
 first_name: Yang
