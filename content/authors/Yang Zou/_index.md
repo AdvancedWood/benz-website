@@ -6,6 +6,10 @@ title: Dr Yang Zou
 first_name: Yang
 last_name: Zou
 
+# Username (this should match the folder name)
+authors:
+  - Yang Zou
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -15,7 +19,7 @@ role: President of BENZ
 # Organizations/Affiliations
 organizations:
   - name: University of Auckland
-    url: ''
+    url: 'https://www.auckland.ac.nz/en.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research lies in the inter-disciplinary area of construction automation and robotics.
@@ -44,9 +48,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=pOLzOOkAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
