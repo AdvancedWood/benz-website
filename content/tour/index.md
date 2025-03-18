@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: The role of BENZ is to
-        content: '- Achieve a consistent approach to BIM into all architectural, engineering and construction (AEC) programmes in New Zealand.<br>- Use the BIM handbook and other national guidelines in course material.<br>- Establish national guidelines for BIM learning outcomes ([download here](https://www.biminnz.co.nz/s/Tertiary-BIM-learning-Outcomes-Appendix-A-ya29.PDF)) and guidance on how to adopt these.<br>- Collaborate on research projects to increase BIM adoption.<br>- Work closely with industry in educational and research activities.<br>- Monitor the above in tertiary education.'
+        content: '-Achieve a consistent approach to BIM into all architectural, engineering and construction (AEC) programmes in New Zealand.<br>-Use the BIM handbook and other national guidelines in course material.<br>-Establish national guidelines for BIM learning outcomes ([download here](https://www.biminnz.co.nz/s/Tertiary-BIM-learning-Outcomes-Appendix-A-ya29.PDF)) and guidance on how to adopt these.<br>-Collaborate on research projects to increase BIM adoption.<br>-Work closely with industry in educational and research activities.<br>-Monitor the above in tertiary education.'
         align: left
         background:
           image:
