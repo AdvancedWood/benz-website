@@ -37,13 +37,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'yang.zou@auckland.ac.nz'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/yangzou89/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=pOLzOOkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -65,6 +65,6 @@ user_groups:
   - Administration
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Senior Lecturer (Above the Bar) in Construction Engineering and Management at the University of Auckland. I am also a Chartered Construction Manager (MCIOB), accredited by the Chartered Institute of Building (CIOB). I completed my doctoral training at the University of Liverpool in December 2017 and began my academic career at the University of Auckland in early 2018. Over the years, I have advanced from Lecturer to Senior Lecturer (Above the Bar) in 2024. I am the Director of the Smart Digital Lab (SDL) as well as Faculty Co-Champion (Academic Lead) of the new UoA-Trimble Technology Lab (TTL).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research lies in the inter-disciplinary area of construction automation and robotics. Specifically, I have focused on applying Building Information Modelling (BIM), Unmanned Aerial System (UAS), Robotics, Artificial Intelligence (AI), Extended Reality (VR/AR/MR), Smart Sensing and Visualisation, throughout the lifecycle of complex building and large-scale infrastructure systems, especially in the post-construction stage. I am particularly interested in building, testing and evaluating robotic solutions for intelligent operation and maintenance of built assets. My ultimate research goal is to develop a smarter, safer and better built environment to meet the new needs of a changing world.
