@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **BIM Education New Zealand (BENZ)** consists of key construction tertiary education providers. It was established in December 2014 to co-ordinate their efforts in BIM education at tertiary level.
   
   - block: collection
     content:
