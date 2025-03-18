@@ -5,6 +5,7 @@ title: Dr Yang Zou
 # Full Name (for SEO)
 first_name: Yang
 last_name: Zou
+sort: 1
 
 # Username (this should match the folder name)
 authors:

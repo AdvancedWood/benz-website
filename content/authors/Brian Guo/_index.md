@@ -5,6 +5,7 @@ title: Associate Professor Brian Guo
 # Full name (for SEO)
 first_name: Brian
 last_name: Guo
+sort: 2
 
 # Username (this should match the folder name)
 authors:
