@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to BENZ
         content: Take a look at what we're working on...
         align: center
         background:
@@ -18,8 +18,9 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: The BENZ role is to
+        content: 'Achieve a consistent approach to BIM into all architectural, engineering and construction (AEC) programmes in New Zealand'
+        content: 'Use the BIM handbook and other national guidelines in course material'
         align: left
         background:
           image:
@@ -28,7 +29,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
+      - title: BIM Tertiary Education in NZ
         content: 'Just opened last month!'
         align: right
         background:
