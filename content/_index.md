@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        BIM Education New Zealand
+        Kia ora
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **BIM Education New Zealand (BENZ)** consists of key construction tertiary education providers. It was established in December 2014 to co-ordinate their efforts in BIM education at tertiary level.
+        We are **BIM Education New Zealand (BENZ)**. It consists of key construction tertiary education providers. It was established in December 2014 to co-ordinate their efforts in BIM education at tertiary level.
   
   - block: collection
     content:
