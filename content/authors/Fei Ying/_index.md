@@ -41,10 +41,10 @@ social:
     link: 'f.Ying@massey.ac.nz'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yangzou89/
+    link: https://www.linkedin.com/in/fei-ying-14b3556/?originalSubdomain=nz
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=pOLzOOkAAAAJ&hl=en
+    link: https://scholar.google.co.nz/citations?user=phCGd4UAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
