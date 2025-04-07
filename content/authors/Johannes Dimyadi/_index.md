@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Dr Yang Zou
+title: Dr Johannes Dimyadi
 
 # Full Name (for SEO)
-first_name: Yang
-last_name: Zou
+first_name: Johannes
+last_name: Dimyadi
 sort: 1
 
 # Username (this should match the folder name)
 authors:
-  - Yang Zou
+  - Johannes Dimyadi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Chief Executive Officer
+role: Industry representative
 
 # Organizations/Affiliations
 organizations:
