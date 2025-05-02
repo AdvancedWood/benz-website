@@ -68,7 +68,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: publication
+      page_type: publications
     design:
       view: card
       columns: '1'
