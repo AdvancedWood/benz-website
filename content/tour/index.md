@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to BENZ
         content: Take a look at what we're working on...
         align: center
         background:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: The role of BENZ is to
+        content: '-Achieve a consistent approach to BIM into all architectural, engineering and construction (AEC) programmes in New Zealand.<br>-Use the BIM handbook and other national guidelines in course material.<br>-Establish national guidelines for BIM learning outcomes ([download here](https://www.biminnz.co.nz/s/Tertiary-BIM-learning-Outcomes-Appendix-A-ya29.PDF)) and guidance on how to adopt these.<br>-Collaborate on research projects to increase BIM adoption.<br>-Work closely with industry in educational and research activities.<br>-Monitor the above in tertiary education.'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: BIM Tertiary Education in NZ
+        content: 'Ensuring the architects, engineers, and construction professionals of tomorrow are BIM capable is an important enabler of BIM adoption. Developing the teaching resource and assessments is a key step in delivering this. Sometimes this requires upskilling of academic staff too.'
         align: right
         background:
           image:

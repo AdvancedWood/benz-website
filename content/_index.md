@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Kia ora
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **BIM Education New Zealand (BENZ)** consists of key construction tertiary education providers. It was established in December 2014 to co-ordinate their efforts in BIM education at tertiary level.
+        We are **BIM Education New Zealand (BENZ)**. It consists of key construction tertiary education providers. It was established in December 2014 to co-ordinate their efforts in BIM education at tertiary level.
   
   - block: collection
     content:
@@ -74,19 +73,6 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 
   - block: markdown
     content:
