@@ -1,7 +1,7 @@
 ---
 title: BIM Implementation in Malaysia
 
-event: BENZ Talks
+event: BIM Implementation in Malaysia
 event_url: https://www.youtube.com/watch?v=uCoAt2kqWPQ&t=1s
 
 location: Auckland Central
