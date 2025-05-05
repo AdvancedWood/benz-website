@@ -1,7 +1,7 @@
 ---
 title: BIM Implementation in Malaysia
 
-event: BENZ Talks
+event: BENZ Talks-BIM Implementation in Malaysia
 event_url: https://www.youtube.com/watch?v=uCoAt2kqWPQ&t=1s
 
 location: Auckland Central
@@ -17,12 +17,12 @@ abstract: 'This talk focuses on BIM Implementation in Malaysia, covering the con
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-09-27T13:00:00Z'
+date: '2020-09-28T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2020-09-27T00:00:00Z'
+publishDate: '2020-09-28T00:00:00Z'
 
 authors: []
 tags: []
