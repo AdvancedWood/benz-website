@@ -4,25 +4,25 @@ title: UNITEC School of Building Construction BIM Journey
 event: BENZ Talks
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Auckland Central
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 20 Symonds Street
+  city: Auckland
+  region: Auckland
+  postcode: '1010'
+  country: New Zealand
 
 summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'This talk by Taija Puolitaival covers over 10 year-long BIM journey of the Unitec School of Building Construction. The journey has included many highs and lows. These was discussed alongside the lessons learned during this time. One excellent teaching practice is reflecting on how well learners achieve set BIM learning objectives and this talk captures BIM assessment process. Taija Puolitaival is originally from Finland with a background in construction project management education, research and consultation. She is one of the founder members and a former chair of New Zealand BIM Education Working Group (NZBEWG) now named BIM Education New Zealand (BENZ), and also a former member of BIM Acceleration Committee (BAC) and various BAC sub-committees. She has been with Unitec since 2012, where her role, in addition to teaching and research, has involved the coordination of BIM integration into the four undergraduate programmes offered by the School of Building Construction (former Department of Construction): New Zealand Diploma in Construction, New Zealand Diploma in Architectural Technology, Bachelor of Construction, and Graduate Diploma in Construction Project Management. BENZ expresses a profound gratitude to Taija Puolitaival for sharing her perspective on future direction of BIM education in this talk.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2020-09-27T13:00:00Z'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2020-09-27T00:00:00Z'
 
 authors: []
 tags: []
