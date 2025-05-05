@@ -1,7 +1,7 @@
 ---
-title: Example Event
+title: UNITEC School of Building Construction BIM Journey
 
-event: Wowchemy Conference
+event: BENZ Talks
 event_url: https://example.org
 
 location: Wowchemy HQ
