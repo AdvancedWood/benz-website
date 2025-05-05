@@ -1,7 +1,7 @@
 ---
 title: UNITEC School of Building Construction BIM Journey
 
-event: BENZ Talks-UNITEC School of Building Construction BIM Journey
+event: BENZ Talks
 event_url: https://www.youtube.com/watch?v=HYcbw-T8cI8&t=575s
 
 location: Auckland Central
